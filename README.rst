@@ -15,16 +15,15 @@
 
 .. class:: center
 
-    :Название исследуемой задачи: Мое название работы
-    :Тип научной работы: M1P/НИР/CoIS
-    :Автор: Имя Отчество Фамилия
-    :Научный руководитель: степень, Фамилия Имя Отчество
-    :Научный консультант(при наличии): степень, Фамилия Имя Отчество
+    :Название исследуемой задачи: Клеточные автоматы в в задаче моделирования живых систем
+    :Тип научной работы: M1P
+    :Автор: Скороходов Андрей Сергеевич
+    :Научный руководитель: доцент, Гуров Сергей Исаевич
 
 Abstract
 ========
+Клеточные автоматы (КлА) - это модели, которые генерируют крупномасштабный паттерн из мелкомасштабных локальных процессов. КлА используют сетчатую структуру в качестве поля для вычислений своих состояний. Последовательные состояния ячеек, расположенных на сетке, вычисляются в соответствии с набором правил. Переходы состояний зависят от состояния отдельных ячеек и состояния ячеек в локальной окрестности. Клеточные автоматы применяются в качестве подхода к моделированию во многих научных дисциплинах и используются в задаче моделирования живых процессов как один из наиболее популярных типов моделей для изучения пространственных процессов в динамике. В работе я обсуждаю основные области применения КлА в моделировании живых процессов с акцентом на градостроительное моделирование.
 
-Purus sit amet luctus venenatis lectus magna fringilla. Condimentum id venenatis a condimentum vitae sapien. Auctor neque vitae tempus quam pellentesque nec nam aliquam. Eget egestas purus viverra accumsan in. Nam aliquam sem et tortor. Donec et odio pellentesque diam volutpat commodo. Odio pellentesque diam volutpat commodo sed egestas. Sit amet dictum sit amet justo. Pellentesque sit amet porttitor eget. Imperdiet sed euismod nisi porta lorem mollis aliquam ut. Quis varius quam quisque id diam vel quam elementum. Ornare lectus sit amet est placerat in. Vulputate dignissim suspendisse in est ante. Elit sed vulputate mi sit amet mauris. Egestas sed tempus urna et pharetra pharetra. Viverra tellus in hac habitasse platea dictumst vestibulum rhoncus.
 
 Research publications
 ===============================
